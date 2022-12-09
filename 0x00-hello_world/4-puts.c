@@ -8,6 +8,7 @@
  */
 int main(void) /*main function prints text only */
 {
-i	puts("\"Programming is like building a multilingual puzzle");
-	retiurn (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	
+	return (0);
 }
