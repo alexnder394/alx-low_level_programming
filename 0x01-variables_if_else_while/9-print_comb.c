@@ -15,7 +15,10 @@ int main(void)
 	{
 		putchar(letter);
 		if (letter != 57)
+		{
 			putchar(44);
+			putchar(' ');
+		}
 
 	}
 
