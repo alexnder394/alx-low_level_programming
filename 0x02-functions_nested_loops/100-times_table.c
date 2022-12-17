@@ -2,8 +2,8 @@
 #include "main.h"
 
 /**
- * times_table - print the 9 time table
- *
+ * print_times_table - print the 9 time table
+ * @n: integer
  *
  *
  * Return: void
