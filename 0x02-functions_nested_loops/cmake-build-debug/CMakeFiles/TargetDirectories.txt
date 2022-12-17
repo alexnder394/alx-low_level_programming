@@ -1,0 +1,3 @@
+C:/Users/moham/Desktop/ALX/alx-low_level_programming/0x02-functions_nested_loops/cmake-build-debug/CMakeFiles/0x02_functions_nested_loops.dir
+C:/Users/moham/Desktop/ALX/alx-low_level_programming/0x02-functions_nested_loops/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/moham/Desktop/ALX/alx-low_level_programming/0x02-functions_nested_loops/cmake-build-debug/CMakeFiles/rebuild_cache.dir

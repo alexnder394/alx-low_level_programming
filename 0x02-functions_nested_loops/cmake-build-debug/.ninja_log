@@ -1,0 +1,24 @@
+# ninja log v5
+30	178	6929806710453553	CMakeFiles/0x02_functions_nested_loops.dir/11-main.c.obj	739dd52d283d2859
+24	191	6929806710473553	CMakeFiles/0x02_functions_nested_loops.dir/100-main.c.obj	bb5a2347d6b84d8
+15	206	6929806710533597	CMakeFiles/0x02_functions_nested_loops.dir/1-main.c.obj	d60fd7689a5781dd
+5	217	6929806710703591	CMakeFiles/0x02_functions_nested_loops.dir/0-putchar.c.obj	6d1d0f335f25b46c
+0	282	6929806711434003	CMakeFiles/0x02_functions_nested_loops.dir/1-alphabet.c.obj	37c741eb160fd3a2
+9	298	6929806711573570	CMakeFiles/0x02_functions_nested_loops.dir/10-main.c.obj	8e986a058b3c4235
+181	322	6929806711863642	CMakeFiles/0x02_functions_nested_loops.dir/2-main.c.obj	132dd1bc53f2497f
+209	347	6929806712123582	CMakeFiles/0x02_functions_nested_loops.dir/3-main.c.obj	c1394fc62345ca9f
+192	376	6929806712273765	CMakeFiles/0x02_functions_nested_loops.dir/3-islower.c.obj	7c12ada89ff122fb
+217	384	6929806712423583	CMakeFiles/0x02_functions_nested_loops.dir/2-print_alphabet_x10.c.obj	271a066f855c684e
+298	436	6929806712983579	CMakeFiles/0x02_functions_nested_loops.dir/4-main.c.obj	a2044b526ece3eb3
+282	451	6929806713143621	CMakeFiles/0x02_functions_nested_loops.dir/4-isalpha.c.obj	544aa94a184233f8
+323	460	6929806713233639	CMakeFiles/0x02_functions_nested_loops.dir/5-main.c.obj	18a5233f9fd97232
+377	541	6929806713953594	CMakeFiles/0x02_functions_nested_loops.dir/6-main.c.obj	1a5b5c3f030861dc
+347	559	6929806714183541	CMakeFiles/0x02_functions_nested_loops.dir/6-abs.c.obj	87268e2deb08d698
+384	566	6929806714203541	CMakeFiles/0x02_functions_nested_loops.dir/5-sign.c.obj	a0d2e4354619bcef
+437	601	6929806714563541	CMakeFiles/0x02_functions_nested_loops.dir/7-main.c.obj	1c6e1045ed329774
+460	657	6929806714993637	CMakeFiles/0x02_functions_nested_loops.dir/7-print_last_digit.c.obj	506a7800b642d753
+452	659	6929806715093567	CMakeFiles/0x02_functions_nested_loops.dir/8-24_hours.c.obj	baedf58a06471446
+541	688	6929806715573599	CMakeFiles/0x02_functions_nested_loops.dir/9-main.c.obj	fde17d234d0267d6
+560	691	6929806715593626	CMakeFiles/0x02_functions_nested_loops.dir/8-main.c.obj	cb1b690bba359020
+601	746	6929806716163517	CMakeFiles/0x02_functions_nested_loops.dir/_putchar.c.obj	fbd14272ab17fb12
+566	747	6929806716153512	CMakeFiles/0x02_functions_nested_loops.dir/9-times_table.c.obj	ba7407bbcccab76b
