@@ -11,7 +11,7 @@ int main(void)
 	unsigned long num1, num2, sum;
 
 	num1 = 0;
-	num2 = 0;
+	num2 = 1;
 	for (count = 0; count < 50; count++)
 	{
 		sum = num1 + num2;
