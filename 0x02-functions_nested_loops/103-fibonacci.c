@@ -1,48 +1,31 @@
-#include <unistd.h>
-#include "main.h"
+#include <stdio.h>
 
 /**
- * print_times_table - print the 9 time table
- * @n: integer
- *
- *
- * Return: void
- *
- */
-void print_times_table(int n)
+* main -print the first 50 Fibonacci numbers, starting with 1 & 2
+*
+* Return: Always 0.
+*/
+int main(void)
 {
-	int num, mult, prod;
+	unsigned long num1, num2, sum;
+	float Even_sum;
 
-	if (n >= 0 && n <= 15)
+	num1 = 0;
+	num2 = 1;
+
+	while (true)
 	{
-		for (num = 0; num <= n; num++)
-		{
-			_putchar('0');
+		sum = num + num1;
+		if (sum > 4000000)
+			break;
 
-			for (mult = 1; mult <= n; mult++)
-			{
-				_putchar(',');
-				_putchar(' ');
+		if ((sum % 2) == 0)
+			Even_sum += sum;
 
-				prod = num * mult;
-
-				if (prod <= 99)
-					_putchar(' ');
-				if (prod <= 9)
-					_putchar(' ');
-
-				if (prod >= 100)
-				{
-					_putchar((prod / 100) + '0');
-					_putchar(((prod / 10)) % 10 + '0');
-				}
-				else if (prod <= 99 && prod >= 10)
-				{
-					_putchar((prod / 10) + '0');
-				}
-				_putchar((prod % 10) + '0');
-			}
-			_putchar('\n');
-		}
+		num1 = num2;
+		num2 = sum;
 	}
+	printf("%.0f\n", Even_sum);
+
+return (0);
 }
