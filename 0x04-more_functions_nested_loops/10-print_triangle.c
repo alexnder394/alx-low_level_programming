@@ -12,7 +12,7 @@ if (size > 0)
 {
 for (row = 1; row <= size; row++)
 {
-for (col = size - row; row > 0; col--)
+for (col = size - row; col > 0; col--)
 _putchar(' ');
 
 for (col = 0; col < row; col++)
