@@ -1,3 +1,10 @@
+#include <stdio.h>
+/**
+ * puts_half - prints half of a string
+ * @str: string
+ */
+void puts_half(char *str)
+{
 int i;
 int len;
 int n;
@@ -16,3 +23,4 @@ n = (len - 1) / 2;
 for (i = n; i < len; i++)
 putchar(str[i]);
 putchar('\n');
+}
